@@ -1,0 +1,9 @@
+20:47:47.566 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MAHESH\eclipse-workspace\DummyOpenCart\master.xml"
+20:47:54.766 [main] INFO  TestCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+20:47:54.969 [main] INFO  TestCases.TC001_AccountRegistrationTest - click on my account
+20:47:55.666 [main] INFO  TestCases.TC001_AccountRegistrationTest - click on Register
+20:47:55.670 [main] INFO  TestCases.TC001_AccountRegistrationTest - Providing customer details
+20:47:58.358 [main] INFO  TestCases.TC001_AccountRegistrationTest - validation information
+20:47:58.400 [main] INFO  TestCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:48:00.692 [main] INFO  TestCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+20:48:02.619 [main] INFO  TestCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
